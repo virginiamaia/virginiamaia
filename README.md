@@ -1,16 +1,37 @@
-### Hi there 👋
+## Oi! Eu sou a Virgínia 😁
 
-<!--
-**virginiamaia/virginiamaia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🎓 Graduada em Sistemas de Informação e Mestre em Ciência da Computação
+- 🔭 Já trabalhei como: Analista de Qualidade de Software, Desenvolvedora Delphi e Professora de Informática
+- 🌱 Tentando voltar para o mercado... Estou fazendo cursos para front-end, envolvendo typeScript, react e outras tecnologias
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+##
+<p align="center">
+  <a href="https://github.com/virginiamaia">
+  <img height="180cm" src="https://github-readme-stats.vercel.app/api?username=virginiamaia&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=virginiamaia&hide=jupyter%20notebook,c%2B%2B,cmake&layout=compact&langs_count=7&theme=radical"/>
+</p>
+
+<div style = "dysplay: inline_block">
+  <img align = "center" alt = "html" height = "30" width = "45" src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+  <img align = "center" alt = "css" height = "30" width = "45" src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+  <img align = "center" alt = "js" height = "30" width = "45" src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+  <img align = "center" alt = "ts"  height = "30" width = "45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
+  <img align = "center" alt = "nodejs" heigh = "11" width = "35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+  <img align = "center" alt = "react" height = "30" width = "45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+  <img align = "center" alt = "python" height = "30" width = "45" src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+  <img align = "center" alt = "java" height = "30" width = "45" src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+  
+</div>
+
+##
+<p align= "center"> 
+ <a href= "mailto:virginiamaiabf@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+ </a>
+ <a href= "https://www.linkedin.com/in/virginiamaia/" target="_blank">
+  <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+ </a> 
+</p>
+
+
