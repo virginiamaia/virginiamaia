@@ -1,6 +1,6 @@
 ## Oi! Eu sou a Virgínia 😁
 
-- 🎓 Graduada em Sistemas de Informação e Mestre em Ciência da Computação
+- 🎓 Graduada em Sistemas de Informação e Mestra em Ciência da Computação
 - 🔭 Já trabalhei como: Analista de Qualidade de Software, Desenvolvedora Delphi e Professora de Informática
 - 🌱 Estou fazendo cursos para front-end, envolvendo typeScript, react e outras tecnologias
 
