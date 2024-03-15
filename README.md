@@ -23,15 +23,3 @@
   <img align = "center" alt = "java" height = "30" width = "45" src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
   
 </div>
-
-##
-<p align= "center"> 
- <a href= "mailto:virginiamaiabf@gmail.com" target="_blank">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
- </a>
- <a href= "https://www.linkedin.com/in/virginiamaia/" target="_blank">
-  <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
- </a> 
-</p>
-
-
