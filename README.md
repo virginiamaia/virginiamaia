@@ -1,8 +1,8 @@
-## Oi! Eu sou a Virgínia 😁
+## Hi! I'm Virgínia 😁
 
-- 🎓 Graduada em Sistemas de Informação e Mestra em Ciência da Computação
-- 🔭 Já trabalhei como: Analista de Qualidade de Software, Desenvolvedora Delphi e Professora de Informática
-- 🌱 Estou fazendo cursos para front-end, envolvendo typeScript, react e outras tecnologias
+- 🎓 Bachelor's degree in Information Systems and Master's degree in Computer Science
+- 🔭 I have worked as a: Software Quality Analyst, Delphi Developer, Computer Science Teacher and Front-End Developer
+- 🌱 I'm currently studying front-end, focusing on TypeScript, React, and other technologies
 
 
 ##
